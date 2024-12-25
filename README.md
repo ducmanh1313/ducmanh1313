@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ducmanh1313&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducmanh1313&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="Coding GIF" align="right" src="https://raw.githubusercontent.com/ducmanh1313/ducmanh1313/main/.github/assets/coding-freak.gif"/></td>
+  <td width="52%"><img alt="Coding GIF" align="right" src="https://raw.githubusercontent.com/ducmanh1313/ducmanh1313/main/.github/coding-freak.gif"/></td>
 </tr>
 </table>
 
